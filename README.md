@@ -24,9 +24,9 @@
     <a href="mailto:rohitdinku815@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-    <a href="mailto:https://www.instagram.com/_herohit_/">
+    <a href="https://www.instagram.com/_herohit_/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+    </a>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
 
