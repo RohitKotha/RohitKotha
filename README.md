@@ -6,6 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Kotha!;" />
 </h1>
 <h3 align="center">Compitative Programmer</h3>
+<div align="center">
+ 🌱 I’m currently learning **Machine Learning, FullStack Development, AWS**
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
 
