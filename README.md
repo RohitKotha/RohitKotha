@@ -10,9 +10,9 @@
  🌱 I’m currently learning **Machine Learning, FullStack Development, AWS**
 </div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,java,html,css,linux,aws" />
   </a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
