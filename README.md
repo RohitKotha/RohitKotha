@@ -28,10 +28,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
 </div>
-<hr>
-<hr>
+<br>
 <br>
 <hr>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
 
 
