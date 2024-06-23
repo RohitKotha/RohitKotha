@@ -34,7 +34,8 @@
 <br>
 <h2 align="center"> My Contributions</h2>
 <hr>
- <img src="https://github.com/MAZHARMIK/MAZHARMIK/blob/output/github-contribution-grid-snake.svg"/>
+ 
+ <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;">
 <br>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
