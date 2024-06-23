@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
 </div>
-<br>
+
 <br>
 <hr>
 <br>
