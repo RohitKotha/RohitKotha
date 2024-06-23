@@ -15,9 +15,16 @@
     <img src="https://skillicons.dev/icons?i=git,c,cpp,python,java,html,css,javascript,linux,aws" />
   </a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<div>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,facebook,instagram" />
+  </a>
+</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
+
+
 <p align="left">
 </p>
 
