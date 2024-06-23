@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=git,c,cpp,python,java,html,css,javascript,linux,aws" />
   </a>
 </p>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <div>
     <a href="https://www.linkedin.com/in/rohit-kotha-3b04a8258/">
