@@ -35,7 +35,9 @@
 <h2 align="center"> My Contributions</h2>
 <hr>
  
- <div align="center"> <img  src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></div>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RohitKotha/RohitKotha/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <br>
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
