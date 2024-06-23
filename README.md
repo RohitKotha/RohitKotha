@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,facebook,instagram" />
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram" />
   </a>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkotha" alt="rohitkotha" /></a> </p>
