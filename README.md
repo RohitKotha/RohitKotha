@@ -33,7 +33,7 @@
 <hr>
 <br>
 <h2 align="center"> My Contributions</h2>
-<hr>
+
  
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RohitKotha/RohitKotha/output/github-contribution-grid-snake-dark.svg" />
