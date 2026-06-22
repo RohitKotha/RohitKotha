@@ -6,10 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF0000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Kotha!;" />
 </h1>
 
-<h3 align="center">competitive programmer</h3>
-<div align="center">
- 🌱 I’m currently learning **Machine Learning, FullStack Development, AWS**
-</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <a href="">
